@@ -1,1 +1,1 @@
-this is the lcd file - only for lcd nothing else
+light catcher fikle and lcd file
